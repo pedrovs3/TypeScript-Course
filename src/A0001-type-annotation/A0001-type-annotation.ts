@@ -25,4 +25,4 @@ const soma2: (x: number, y: number) => number = (x, y) => x + y;
 
 const result = soma(2, 2);
 
-console.log(`${nome}, ${idade}, ${adulto}, ${bigInt}, `);
+console.log(`${nome}, ${idade}, ${adulto}, ${bigInt}`);
